@@ -15,7 +15,7 @@ int main() {
             break; // Fin de la saisie
         }
 
-        // Mettre à jour le minimum et le maximum
+        // MAJ du minimum et du maximum
         if (number < min) {
             min = number;
         }
